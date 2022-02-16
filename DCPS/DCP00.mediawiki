@@ -9,15 +9,15 @@
 
 ==What is an DCP?==
 
-DCP stands for Data Collaborate Protocol. A DCP is a design document providing information to the data collaborate protocol. The DCP should provide a concise descriptions of data structure and utilization methods. The DCP author is responsible for building consensus within the community and documenting dissenting opinions.
+DCP stands for Data Collaborate Protocol. A DCP is a design document providing information to the data collaborate protocol. The DCP should provide a concise description of data structure and utilization methods. The DCP author is responsible for building consensus within the community and documenting dissenting opinions.
 
 ==DCP Rational==
 
-We hope DCPs to be the primary mechanisms for proposing new data collaborate method when have need in web3 data collaboration, anyone can submit their own data collaboration protocols on DCP. The difference between DCP and EIP is that 
+We hope DCPs to be the primary mechanisms for proposing new data collaborate methods needed for web3 data collaboration, anyone can submit their own data collaboration protocols on DCP. The difference between DCP and EIP is that 
 * 1. EIP only serves Ethereum, while DCP is a data collaboration solution for the entire WEB3 (including different networks). 
 * 2. EIP is the consensus of the entire network, and DCP can have different valid ranges. It can be in a limited area or the entire network. 
 * 3. EIP is a top-down approval mechanism, and DCP is a bottom-up open platform. Without DCP, you can also promote your own data collaboration standards through PODs. Through the DCP documentation, the community can gain a better understanding of the protocol's motivations and ways to collaborate. The POD team just helps DCP owners to better express themselves to the community. 
-Through an open DCP, where interested parties can collaborate by the same data structure and adoption method, collecting community input on an issue to help create greater data consensus across the network.
+Through an open DCP, where interested parties can collaborate on data structures and adoption methods, collecting community input on an issue to help create greater data consensus across the network.
 
 ==DCP Workflow==
 
@@ -115,7 +115,7 @@ DCPs may include auxiliary files such as diagrams. Such files must be included i
 
 It occasionally becomes necessary to transfer ownership of DCPs to a new champion. In general, we'd like to retain the original author as a co-author of the transferred DCP, but that's really up to the original author. A good reason to transfer ownership is because the original author no longer has the time or interest in updating it or following through with the DCP process, or has fallen off the face of the 'net (i.e. is unreachable or not responding to email). A bad reason to transfer ownership is because you don't agree with the direction of the DCP. We try to build consensus around an DCP, but if that's not possible, you can always submit a competing DCP.
 
-If you are interested in assuming ownership of an DCP, send a message asking to take over, addressed to both the original author and the DCP editor. If the original author doesn't respond to email in a timely manner, the DCP editor will make a unilateral decision (it's not like such decisions can't be reversed :).
+If you are interested in assuming ownership of a DCP, send a message asking to take over, addressed to both the original author and the DCP editor. If the original author doesn't respond to email in a timely manner, the DCP editor will make a unilateral decision (it's not like such decisions can't be reversed :).
 
 ==DCP Editors==
 
